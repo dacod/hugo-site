@@ -1,0 +1,8 @@
+version: '3'
+services:
+  hugo:
+    image: debian-hugo
+    volumes:
+     - ./snep:/site
+    ports:
+     - "3000:3000"

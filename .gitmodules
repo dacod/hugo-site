@@ -1,0 +1,3 @@
+[submodule "snep/themes/hugo-now-ui"]
+	path = snep/themes/hugo-now-ui
+	url = https://github.com/cboettig/hugo-now-ui
